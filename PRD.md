@@ -14,3 +14,5 @@ Manual order processing at delayed fulfillment centers increases cancellation ra
 * **Given** an order is successfully paid,
 * **When** the order inventory is verified,
 * **Then** the system assigns the fulfillment ticket to the nearest warehouse within 5 seconds.
+## Process Workflow
+![To-Be Process Flow](process%20flow.png)
